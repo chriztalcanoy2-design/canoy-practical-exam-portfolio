@@ -1,0 +1,7 @@
+What is backend development?
+- For me, a backend development is for database management and for data processing. And also, backend is 
+  also known as the engine.
+Give 2 examples of backend frameworks.
+- As i know the two examples that I've known are Express.js and Django.
+What is an API?
+- From what I've known API is all about how they communicate together.
